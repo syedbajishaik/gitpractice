@@ -1,3 +1,3 @@
 # gitpractice
 # Syed Baji Shaik
-# Suhana Wrong Syed
+# Suhana Correct Syed
