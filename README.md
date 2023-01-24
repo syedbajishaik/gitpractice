@@ -1,3 +1,3 @@
 # gitpractice
 # Syed Baji Shaik
-# Suhana Syed
+# Suhana Shaik Syed
