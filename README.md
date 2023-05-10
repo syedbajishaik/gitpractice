@@ -8,6 +8,7 @@
 # C11
 # C13
 # Changes were made on the 10th line of the file on the "main" branch of GitHub. The new content is "C14," and the commit message is also "C14."
+# on local machine on "main" branch at 10th line changes has been made with some random content
 # now we can not do pull or push. git will not allow that
 # steps to resolve:
 # type "git rebase"
